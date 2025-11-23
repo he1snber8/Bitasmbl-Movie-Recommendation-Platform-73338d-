@@ -1,0 +1,17 @@
+backend/
+  app/
+    __init__.py
+    main.py
+    bootstrap.py
+    db.py
+    models.py
+    schemas.py
+    cors.py
+    routers/
+      movies.py
+      recommendations.py
+    recommender.py
+frontend/
+  public/index.html
+  src/index.js
+  src/App.js
